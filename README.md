@@ -11,13 +11,16 @@
     in learning about new technologies.💻
   </em>  
 </p>
-<img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="190" />
+<img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="400" />
 
 **Something more About Myself:**
 
+I love to code most in  
+| C/C++ | Python | JAVA | 
+ | :---: | :---: | :---: | 
  
-  - 👨🏽‍💻 I am currently learning Web Development
-  - 🙍 I love to participate in hackathons
+ - 👨🏽‍💻 I am currently learning Web Development
+ - 🙍 I love to participate in hackathons
  - 👨🏽‍💼 Open Source Enthusiast
  - 😄 Pronouns: She/Her
  - 👯 I’m looking to collaborate on New technology Projects
@@ -25,9 +28,7 @@
  - 💬 Ask me about anything, I am happy to help anytime!
  - 📫 I am just an Email away : btbtc18095_aastha@banasthali.in
 <br>
-I love to code most in   
-| C/C++ | Python | JAVA | 
- | :---: | :---: | :---: | 
+ 
 
 
 ### Technologies & Frameworks I love to work on : 
@@ -39,6 +40,8 @@ I love to code most in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 <br>
 
@@ -51,54 +54,8 @@ I love to code most in
 </a>
 
 
-
-<br>
-<!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
--->
-<br>
-<img src="https://github.com/Aasthajain123/Aasthajain123/blob/main/100.gif" alt="Forever Learner!" width="450">
-<br>
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aastha-jain-40b685183/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://mobile.twitter.com/AasthaJ66128111) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/aastha__1002/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Aasthajain123) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/)| [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://jainaastha.medium.com/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:btbtc18095_aastha@banasthali.in)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aastha-jain-40b685183/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://mobile.twitter.com/AasthaJ66128111) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/aastha__1002/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Aasthajain123) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://jainaastha.medium.com/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:btbtc18095_aastha@banasthali.in)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 <br>
 <br>
-<!--
-![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
-<a href="https://www.linkedin.com/in/aastha-jain-40b685183/">
-    <img align="left" alt="Aastha Jain | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Aastha Jain | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:btbtc18095_aastha@banasthali.in">
-    <img align="left" alt="Aastha Jain | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-...
-- ⚡ Fun fact: ...
--->
-
