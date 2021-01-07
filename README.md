@@ -12,13 +12,13 @@
   </em>  
 </p>
 <img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="400" />
-
+<br>
+<br>
 **Something more About Myself:**
 
-I love to code most in  
+ - I love to code most in  
 | C/C++ | Python | JAVA | 
  | :---: | :---: | :---: | 
- 
  - 👨🏽‍💻 I am currently learning Web Development
  - 🙍 I love to participate in hackathons
  - 👨🏽‍💼 Open Source Enthusiast
