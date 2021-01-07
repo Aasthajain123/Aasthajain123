@@ -17,9 +17,9 @@
 **Something more About Myself:**
 
 
- - I love to code most in  
-| C/C++ | Python | JAVA | 
-| :---: | :---: | :---: |  
+ -I love to code most in  
+   | C/C++ | Python | JAVA |
+   | :---: | :---:  | :---:|
  
  - 👨🏽‍💻 I am currently learning Web Development
  - 🙍 I love to participate in hackathons
