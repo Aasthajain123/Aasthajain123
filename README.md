@@ -1,22 +1,29 @@
 # Aastha Jain&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85px">
 
 
-<img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="190" />
+ 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hey Everyone!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 <p>
-  <em>
+<em>
     I am a 3rd Year undergraduate from <a href="http://www.banasthali.org/banasthali/wcms/en/home/"> <b>Banasthali Vidhyapith</b>, Jaipur(Rajasthan)</a>.  
     A budding <b>Software Developer</b> who is passionate about Full stack development and a Machine Learning Enthusiast<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>interested</b>
-    in learning about new technologies.💻 </em>  
+    in learning about new technologies.💻
+  </em>  
 </p>
-<br>
-- 👨🏽‍💻 I am currently learning Web Development
-- 🙍 I love to participate in hackathons
-- 👨🏽‍💼 Open Source Enthusiast
-- 👯 I’m looking to collaborate on New technology Projects
-- ⚡️ Member of Developers Student Club, Banasthali Vidhyapith
-- 💬 Ask me about anything, I am happy to help anytime!
-- 📫 I am just an Email away : btbtc18095_aastha@banasthali.in
+<img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="190" />
+
+**Something more About Myself:**
+
+ 
+  - 👨🏽‍💻 I am currently learning Web Development
+  - 🙍 I love to participate in hackathons
+ - 👨🏽‍💼 Open Source Enthusiast
+ - 😄 Pronouns: She/Her
+ - 👯 I’m looking to collaborate on New technology Projects
+ - ⚡️ Member of Developers Student Club, Banasthali Vidhyapith
+ - 💬 Ask me about anything, I am happy to help anytime!
+ - 📫 I am just an Email away : btbtc18095_aastha@banasthali.in
 <br>
 I love to code most in   
 | C/C++ | Python | JAVA | 
@@ -84,14 +91,14 @@ I love to code most in
 
 
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+...
 - ⚡ Fun fact: ...
 -->
 
