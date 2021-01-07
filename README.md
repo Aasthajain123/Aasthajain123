@@ -13,7 +13,6 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="400" />
 <br>
-<br>
 
 **Something more About Myself:**
 
