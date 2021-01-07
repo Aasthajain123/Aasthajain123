@@ -16,8 +16,7 @@
 
 **Something more About Myself:**
 
-
- -I love to code most in  
+    I love to code most in  
    | C/C++ | Python | JAVA |
    | :---: | :---:  | :---:|
  
