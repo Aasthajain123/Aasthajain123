@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://github.com/Aasthajain123/Aasthajain123/blob/main/300.gif" width="400" />
 <br>
 
-**Something more About Myself:**
+**Something More About Myself:**
 
     I love to code most in : 
    | C/C++ | Python | JAVA |
