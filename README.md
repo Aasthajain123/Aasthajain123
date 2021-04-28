@@ -20,7 +20,7 @@
    | C/C++ | Python | JAVA |
    | :---: | :---:  | :---:|
  
- - 👨🏽‍💻 I am currently learning Web Development
+ - 👨🏽‍💻 I am currently learning Web Development.
  - 🙍 I love to participate in hackathons
  - 👨🏽‍💼 Open Source Enthusiast
  - 😄 Pronouns: She/Her
