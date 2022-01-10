@@ -23,7 +23,7 @@
  - 👨🏽‍💻 I am currently learning Web Development.
  - 🙍 I love to participate in hackathons
  - 👨🏽‍💼 Open Source Enthusiast
- - 😄 Pronouns: She/Her
+ - 😄 Fun Fact: I can sleep all day.
  - 👯 I’m looking to collaborate on New technology Projects
  - ⚡️ Member of Developers Student Club, Banasthali Vidhyapith
  - 💬 Ask me about anything, I am happy to help anytime!
