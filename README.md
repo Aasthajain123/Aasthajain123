@@ -27,7 +27,7 @@
  - 👯 I’m looking to collaborate on New technology Projects
  - ⚡️ Member of Developers Student Club, Banasthali Vidhyapith
  - 💬 Ask me about anything, I am happy to help anytime!
- - 📫 I am just an Email away : btbtc18095_aastha@banasthali.in
+ - 📫 I am just an Email away : jainaastha1002@gmail.in
 <br>
  
 
