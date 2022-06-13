@@ -1,9 +1,8 @@
-# Aastha Jain&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
+# Aastha Jain&nbsp;
 
 
  
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Hey Everyone! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+###   Hey Everyone! &nbsp;
 <p>
 <em>
     I am a 3rd Year undergraduate from <a href="http://www.banasthali.org/banasthali/wcms/en/home/"> <b>Banasthali Vidhyapith</b>, Jaipur(Rajasthan)</a>.  
