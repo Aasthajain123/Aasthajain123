@@ -6,7 +6,7 @@
 <p>
 <em>
     I am a 3rd Year undergraduate from <a href="http://www.banasthali.org/banasthali/wcms/en/home/"> <b>Banasthali Vidhyapith</b>, Jaipur(Rajasthan)</a>.  
-    A budding <b>Software Developer</b> who is passionate about Full stack development and a Machine Learning Enthusiast<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>interested</b>
+    A budding <b>Software Developer</b> who is passionate about Full stack development and a Machine Learning Enthusiast who is <b>interested</b>
     in learning about new technologies.💻
   </em>  
 </p>
